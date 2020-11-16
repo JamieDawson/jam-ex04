@@ -11,6 +11,8 @@
 	"author": "jamie",
 	"license": "ISC",
 	"dependencies": {
+		"axios": "^0.21.0",
+		"dotenv": "^8.2.0",
 		"njk": "^3.4.4"
 	},
 	"devDependencies": {
